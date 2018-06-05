@@ -1,0 +1,4 @@
+%{
+  "gen_fsm_compat": {:hex, :gen_fsm_compat, "0.3.0", "5903549f67d595f58a7101154cbe0fdd46955fbfbe40813f1e53c23a970ff5f4", [:rebar3], [], "hexpm"},
+  "poolboy": {:git, "https://github.com/Kyorai/poolboy.git", "ffd3bdfd35470d22567a261b10f82553ceab6319", [branch: "hex"]},
+}
